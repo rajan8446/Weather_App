@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather_App/static/css/main.2eb9d849.css",
+    "main.js": "/Weather_App/static/js/main.c07703de.js",
+    "static/media/5-Best-Free-and-Paid-Weather-APIs-2019-e1587582023501-1024x576.png": "/Weather_App/static/media/5-Best-Free-and-Paid-Weather-APIs-2019-e1587582023501-1024x576.80e9451b3e9f2e9856bc.png",
+    "index.html": "/Weather_App/index.html",
+    "main.2eb9d849.css.map": "/Weather_App/static/css/main.2eb9d849.css.map",
+    "main.c07703de.js.map": "/Weather_App/static/js/main.c07703de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb9d849.css",
+    "static/js/main.c07703de.js"
+  ]
+}
