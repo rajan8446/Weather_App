@@ -42,9 +42,11 @@ const Weather = () => {
         }
     }
 
-    useEffect(() => {
-        getWeatherInfo()
-    }, [searchValue])
+     useEffect(() => {
+    getWeatherInfo();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [searchValue]);
+    
     return (
         <>
         <div className='wrap'>
