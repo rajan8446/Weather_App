@@ -9,8 +9,6 @@ const WeatherInfo = ({ tempInfo }) => {
     const {
         temp,
         humidity,
-        temp_max,
-        temp_min,
         pressure,
         name,
         country,
