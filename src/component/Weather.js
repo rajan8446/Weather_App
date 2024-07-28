@@ -38,12 +38,13 @@ const Weather = () => {
             setTempinfo(myNewWeatherInfo);
         }
         catch(error){
-            alert(error);
+            console.error(error);
         }
     }
 
     useEffect(() => {
-    }, [])
+        getWeatherInfo()
+    }, [searchValue])
     return (
         <>
         <div className='wrap'>
